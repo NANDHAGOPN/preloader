@@ -1,0 +1,10 @@
+
+/* css properties applied to the preloader */
+#preloader{
+    background: #000 url(loader.gif) no-repeat center center ;
+    height: 100vh;
+    width: 100%;
+    background-size: 15%;
+    position: fixed;
+    z-index: 100;
+}
